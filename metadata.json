@@ -1,0 +1,5 @@
+{
+  "name": "Trình Biên Tập Video Tương Tác",
+  "description": "Một ứng dụng web giáo dục cho phép người dùng tải lên video, thêm các câu hỏi trắc nghiệm tương tác tại các thời điểm cụ thể và xem trước sản phẩm.",
+  "requestFramePermissions": []
+}
